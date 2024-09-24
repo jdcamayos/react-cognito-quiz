@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 // Imports the Amplify library from 'aws-amplify' package. This is used to configure your app to interact with AWS services.
 import { Amplify } from 'aws-amplify'
 
